@@ -10,3 +10,4 @@
 | -- | -- | [py](./codes/user_inputs.py) | --|
 | -- | -- | [py](./codes/datatype_dictionaris.py) | --|
 | -- | -- | [py](./codes/datatype_datatimes.py) | --|
+| -- | -- | [py](./codes/functions.py) | --|
