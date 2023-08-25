@@ -26,6 +26,7 @@ string[3:] # 3번째부터 끝까지
 #'ulab !'
 string[:-2] # 끝에서 
 #'Yojulab'
+# 역순
 string[::-1]
 #'! balujoY'
 string[:-1]
