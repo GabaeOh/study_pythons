@@ -1,5 +1,8 @@
 
 ## 📚 STUDY PYTHON 
+python을 기본 문법을 정리 및 공부하는 공간입니다. 
+
+
 | 분류 | 주요 내용 | 작성 코드 | 비고 |
 | -- | -- | -- | --|
 | helloworld | print | [py](./codes/helloworld.py) | --|
